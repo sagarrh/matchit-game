@@ -37,7 +37,7 @@ function buildtile(color)
 
             if(revealedcount===tilecount)
             {
-                alert('you won the game kashvi! you may refresh now!');
+                alert('you won the game ! you may refresh now!');
             }
             return;
         }
